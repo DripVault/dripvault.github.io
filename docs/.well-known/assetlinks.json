@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dripvault.app",
+      "sha256_cert_fingerprints": [
+        "83:6B:9B:32:27:6B:42:03:DB:14:01:6A:3D:E1:6D:42:68:3C:BE:4D:13:D3:36:C9:E1:77:D5:0D:6C:E6:58:7F"
+      ]
+    }
+}]
